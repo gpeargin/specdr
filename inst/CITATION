@@ -1,0 +1,6 @@
+bibentry(
+  bibtype  = "Manual",
+  title    = "specdr: Spectral Change Detection in R",
+  author   = "Greg Peargin",
+  year     = 2023
+)
